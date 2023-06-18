@@ -1,7 +1,7 @@
-### mapcube-example: [https://overu.github.io/mapcube-example/index.html](https://overu.github.io/mapcube-example/index.html)
+### 1. mapcube-example: [https://overu.github.io/mapcube-example/index.html](https://overu.github.io/mapcube-example/index.html)
 
 
-### wx-ast-explorer: [https://overu.github.io/wx-ast-explorer/index.html](https://overu.github.io/wx-ast-explorer/index.html)
+### 2. wx-ast-explorer: [https://overu.github.io/wx-ast-explorer/index.html](https://overu.github.io/wx-ast-explorer/index.html)
 ### like:
 1. delimiters ``{{}}``
    ```html
